@@ -35,7 +35,6 @@ The Poisson distribution is the discrete probability distribution of the number 
 ```
 name: Hema Dharshini N
 register number: 212223220034
-
 import numpy as np
 import math
 import scipy.stats
