@@ -72,13 +72,8 @@ if cal_chi2_sq<table_chi2:
 else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 ```
- 
-
 # Output : 
 ![Screenshot 2024-04-02 133130](https://github.com/hema-dharshini5/Poisson_distribution/assets/147117728/286cbc51-0b4a-4b25-bdd0-fb247fb3a0c3)
-
-
-
 # Results
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
