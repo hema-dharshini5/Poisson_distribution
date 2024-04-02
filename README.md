@@ -1,4 +1,4 @@
- ### Name: Hema Dharshini
+ ### Name: Hema Dharshini N
  ### Registration number: 212223220034
 
 #EX-2 Fitting Poisson  distribution
