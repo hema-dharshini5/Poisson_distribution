@@ -1,4 +1,7 @@
-# Fitting Poisson  distribution
+### Name: Hema Dharshini N
+### Registration number: 212223220034
+
+#EX-2 Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
